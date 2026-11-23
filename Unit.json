@@ -8,9 +8,9 @@
       "Sellable": false,
       "Type": [],
       "Upgrade": [
-      { "Cost": 100, "Damage": 15, "Cooldown": 1},
-      { "Cost": 250, "Damage": 35, "Cooldown": 0.75 },
-      { "Cost": 400, "Damage": 50, "Cooldown": 0.5 }
+      { "Cost": 100, "Damage": 15, "Cooldown": 1, "Range": 5},
+      { "Cost": 250, "Damage": 35, "Cooldown": 0.75, "Range": 8 },
+      { "Cost": 400, "Damage": 50, "Cooldown": 0.5, "Range": 10 }
       ]
     }
   }
