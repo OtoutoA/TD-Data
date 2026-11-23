@@ -1,14 +1,17 @@
 {
-  "Noob": {
-    "Name": "Noob",
-    "Image": "rbxassetid://126969942276691",
-    "Rarity": "Common",
-    "Tradable": false,
-    "Sellable": false,
-    "Upgrade": [
-    { "Cost": 100, "Damage": 15, "Cooldown": 1},
-    { "Cost": 250, "Damage": 35, "Cooldown": 1 },
-    { "Cost": 400, "Damage": 50, "Cooldown": 0.8 }
-    ]
+  "Unit": {
+    "Noob": {
+      "Name": "Noob",
+      "Image": "rbxassetid://126969942276691",
+      "Rarity": "Common",
+      "Tradable": false,
+      "Sellable": false,
+      "Upgrade": [
+      { "Cost": 100, "Damage": 15, "Cooldown": 1},
+      { "Cost": 250, "Damage": 35, "Cooldown": 1 },
+      { "Cost": 400, "Damage": 50, "Cooldown": 0.8 }
+      ]
+    }
   }
+  
 }
