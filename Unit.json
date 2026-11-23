@@ -13,6 +13,20 @@
       { "Cost": 400, "Damage": 50, "Cooldown": 0.5, "Range": 10 }
       ]
     }
+  },
+  "Name": {
+    "UnitType": {
+      "AOE": "AOE",
+      "Splash": "Splash"
+    }
+  },
+  "Priority": {
+    "Stats": {
+		"Cash": 0,
+		"Damage": 1,
+		"Splash": 2,
+		"Cooldown": 3,
+		"Range": 5
+	}
   }
-  
 }
