@@ -5,7 +5,7 @@
       "Image": "rbxassetid://138564453124450",
       "Rarity": "Common",
       "Tradable": false,
-      "Sellable": false,
+      "Sellable": true,
       "Value": 0,
       "Type": [],
       "Upgrade": [
