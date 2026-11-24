@@ -2,7 +2,7 @@
   "Unit": {
     "Noob": {
       "Name": "Noob",
-      "Image": "rbxassetid://126969942276691",
+      "Image": "rbxassetid://138564453124450",
       "Rarity": "Common",
       "Tradable": false,
       "Sellable": false,
@@ -22,11 +22,11 @@
   },
   "Priority": {
     "Stats": {
-		"Cash": 0,
-		"Damage": 1,
-		"Splash": 2,
-		"Cooldown": 3,
-		"Range": 5
-	}
+      "Cash": 0,
+      "Damage": 1,
+      "Splash": 2,
+      "Cooldown": 3,
+      "Range": 5
+	  }
   }
 }
