@@ -6,7 +6,7 @@
       "Rarity": "Common",
       "Tradable": false,
       "Sellable": true,
-      "Value": 0,
+      "Value": 10,
       "Type": [],
       "Upgrade": [
       { "Cost": 100, "Damage": 15, "Cooldown": 1, "Range": 5},
