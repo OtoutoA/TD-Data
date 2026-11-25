@@ -39,6 +39,12 @@
       "StunHeal": "Stun Heal",
       "Booster": "Booster",
       "Slowing": "Slowing"
+    },
+    "Keybind": {
+      "X": "X",
+      "R": "R",
+      "ButtonL2": "L2",
+      "ButtonB": "B"
     }
   },
   "Priority": {
