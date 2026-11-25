@@ -27,6 +27,11 @@
           "Cooldown": 0.5,
           "Range": 10
         }
+      ],
+      "Circle": [
+        [{"Range":5,"Fill":0,"Color":[255,255,255]}],
+        [{"Range":8,"Fill":0,"Color":[255,255,255]}],
+        [{"Range":10,"Fill":0,"Color":[255,255,255]}]
       ]
     }
   },
