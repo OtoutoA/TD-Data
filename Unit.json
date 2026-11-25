@@ -5,20 +5,40 @@
       "Image": "rbxassetid://138564453124450",
       "Rarity": "Common",
       "Tradable": false,
-      "Sellable": true,
+      "Sellable": false,
       "Value": 10,
       "Type": [],
       "Upgrade": [
-      { "Cost": 100, "Damage": 15, "Cooldown": 1, "Range": 5},
-      { "Cost": 250, "Damage": 35, "Cooldown": 0.75, "Range": 8 },
-      { "Cost": 400, "Damage": 50, "Cooldown": 0.5, "Range": 10 }
+        {
+          "Cost": 100,
+          "Damage": 15,
+          "Cooldown": 1,
+          "Range": 5
+        },
+        {
+          "Cost": 250,
+          "Damage": 35,
+          "Cooldown": 0.75,
+          "Range": 8
+        },
+        {
+          "Cost": 400,
+          "Damage": 50,
+          "Cooldown": 0.5,
+          "Range": 10
+        }
       ]
     }
   },
   "Name": {
     "UnitType": {
       "AOE": "AOE",
-      "Splash": "Splash"
+      "Splash": "Splash",
+      "Farm": "Farm",
+      "Spawner": "Spawner",
+      "StunHeal": "Stun Heal",
+      "Booster": "Booster",
+      "Slowing": "Slowing"
     }
   },
   "Priority": {
@@ -28,7 +48,7 @@
       "Splash": 2,
       "Cooldown": 3,
       "Range": 5
-	  },
+    },
     "Rarity": {
       "Common": 1,
       "Uncommon": 2,
