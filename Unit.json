@@ -7,6 +7,8 @@
       "Tradable": false,
       "Sellable": false,
       "Value": 10,
+      "Max": 15,
+      "Distance":5,
       "Type": [],
       "Upgrade": [
         {
